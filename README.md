@@ -103,7 +103,8 @@ HAL_Delay(1000);
 
 
 ## OUTPUT  :
- ![image](https://github.com/user-attachments/assets/ac4236d8-a7d6-407a-b324-d6dcb2db1ed8)
+ ![Screenshot 2024-08-19 131107](https://github.com/user-attachments/assets/ff706a6a-be4a-4078-a693-063fa1486b6c)
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
